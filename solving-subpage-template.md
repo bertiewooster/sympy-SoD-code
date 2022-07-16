@@ -1,5 +1,11 @@
 # Title
 
+*Getting started:*
+
+*- add this page to toc on solving/index.md*
+
+*- link to this page from solving/index.md table*
+
 Use SymPy to *title*. For example, *example from solving main page*.
 
 Alternatives to consider:
