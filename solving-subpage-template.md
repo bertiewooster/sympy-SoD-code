@@ -42,13 +42,13 @@ You can *title* in several ways.
 
 *Method 2 content*
 
-## Use the solution result
+## Use the Solution Result
 
-### *Usage method 1*
+### *Usage Method 1*
 
 *Usage method 1 content*
 
-### *Usage method 2*
+### *Usage Method 2*
 
 *Usage method 2 content*
 
@@ -58,21 +58,21 @@ You can *title* in several ways.
 
 *Speed-up option 1 content*
 
-### *Speed-up option 2*
+### *Speed-up Option 2*
 
 *Speed-up option 2 content*
 
-## Not all equations can be solved
+## Not All Equations Can Be Solved
 
 ### Equations with no solution
 
 *Equations with no solution content*
 
-### Equations with no analytical solution
+### Equations With No Analytical Solution
 
 *Equations with no analytical solution content*
 
-### Equations which have an analytical solution, and SymPy cannot solve
+### Equations Which Have an Analytical Solution, and SymPy Cannot Solve
 
 *Equations which have an analytical solution, and SymPy cannot solve content*
 
