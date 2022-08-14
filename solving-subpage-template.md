@@ -12,7 +12,7 @@ Alternatives to consider:
 - *alternative 1*
 - *alternative 2*
 
-Here is a simple example of *title*:
+Here is an example of *title*:
 
 ```py
 >>> code
