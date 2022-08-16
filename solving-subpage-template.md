@@ -56,15 +56,15 @@ You can *title* in several ways.
 
 ### *Tradeoff 1*
 
-*Speed-up option 1 content*
+*Tradeoff 1 content*
 
-### *Speed-up Option 2*
+### *Tradeoff 2*
 
-*Speed-up option 2 content*
+*Tradeoff 2 content*
 
 ## Not All Equations Can Be Solved
 
-### Equations with no solution
+### Equations With No Solution
 
 *Equations with no solution content*
 
