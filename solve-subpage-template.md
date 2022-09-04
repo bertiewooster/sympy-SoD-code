@@ -72,10 +72,6 @@ You can *title* in several ways.
 
 *Equations with no analytical solution content*
 
-### Equations Which Have an Analytical Solution, and SymPy Cannot Solve
-
-*Equations which have an analytical solution, and SymPy cannot solve content*
-
 Please post the problem on the 
 [mailing list](https://groups.google.com/g/sympy), or open an issue on 
 [SymPy's GitHub page](https://github.com/sympy/sympy/issues). Until the issue 
