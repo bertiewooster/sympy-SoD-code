@@ -68,7 +68,7 @@ You can *title* in several ways.
 
 *Equations with no solution content*
 
-### Equations With No Analytical Solution
+### Equations With No Closed-Form Solution
 
 *Equations with no analytical solution content*
 
