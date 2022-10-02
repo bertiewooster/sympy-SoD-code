@@ -13,6 +13,8 @@ Use SymPy to *title*. For example, *example from solving main page*.
 - *alternative 1*
 - *alternative 2*
 
+## Example of *Title*
+
 Here is an example of *title*:
 
 ```py
