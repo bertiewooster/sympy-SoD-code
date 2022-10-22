@@ -33,18 +33,6 @@ result
 *Guidance 2 content*
 
 
-## *Title*
-
-You can *title* in several ways. 
-
-### *Method 1*
-
-*Method 1 content*
-
-### *Method 2*
-
-*Method 2 content*
-
 ## Use the Solution Result
 
 ### *Usage Method 1*
